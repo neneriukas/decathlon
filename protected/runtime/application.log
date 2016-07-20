@@ -1,0 +1,726 @@
+2016/07/20 09:42:48 [error] [php] Undefined variable: model (C:\wamp64\www\decathlon\protected\views\site\index.php:19)
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(869): SiteController->renderFile()
+#1 C:\wamp64\www\yii\web\CController.php(782): SiteController->renderPartial()
+#2 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#6 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#8 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\views\site\index.php (19)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (32)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 09:43:19 [error] [php] Undefined variable: model (C:\wamp64\www\decathlon\protected\views\site\index.php:19)
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(869): SiteController->renderFile()
+#1 C:\wamp64\www\yii\web\CController.php(782): SiteController->renderPartial()
+#2 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#6 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#8 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\views\site\index.php (19)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (32)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 09:58:48 [warning] [application] Failed to set unsafe attribute "csv_file" of "UploadForm".
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (35)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 09:58:53 [warning] [application] Failed to set unsafe attribute "csv_file" of "UploadForm".
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (35)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 09:58:55 [warning] [application] Failed to set unsafe attribute "csv_file" of "UploadForm".
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (35)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:00:12 [warning] [application] Failed to set unsafe attribute "csv_file" of "UploadForm".
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (35)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:04:07 [error] [php] Undefined variable: file (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:35)
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#1 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#2 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#3 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (35)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:04:13 [error] [php] Undefined variable: file (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:35)
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#1 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#2 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#3 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (35)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:04:15 [error] [php] Undefined variable: file (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:35)
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#1 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#2 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#3 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (35)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:04:16 [error] [php] Undefined variable: file (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:35)
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#1 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#2 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#3 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (35)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:10:49 [error] [php] Undefined variable: fgetcsv (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:45)
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#2 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#3 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#6 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (45)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (37)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:11:13 [error] [php] fgetcsv() expects parameter 1 to be resource, object given (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:45)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (45)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (37)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:13:48 [error] [php] fgetcsv() expects parameter 1 to be resource, string given (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:46)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (46)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:15:27 [error] [php] fopen(Decathlon.csv): failed to open stream: No such file or directory (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:46)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (46)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:15:34 [error] [php] fopen(Decathlon.csv): failed to open stream: No such file or directory (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:46)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (46)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:16:48 [error] [php] fopen(Decathlon.csv): failed to open stream: No such file or directory (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:46)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (46)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:18:52 [error] [php] file() expects parameter 1 to be a valid path, resource given (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:48)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (48)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:20:44 [error] [php] str_getcsv() expects parameter 1 to be string, resource given (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:50)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (50)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:23:32 [error] [php] str_getcsv() expects parameter 1 to be string, array given (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:50)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (50)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:26:10 [error] [php] str_getcsv() expects parameter 1 to be string, array given (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:51)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (51)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 10:28:43 [error] [php] str_getcsv() expects parameter 1 to be string, array given (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:49)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (49)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 11:22:00 [error] [php] Undefined variable: name (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:66)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (66)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (55)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 11:22:21 [error] [php] Undefined variable: name (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:66)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (66)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (55)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 11:22:45 [error] [php] Undefined variable: name (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:66)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (66)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (55)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 11:22:50 [error] [php] Undefined variable: name (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:67)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (67)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (55)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 11:23:10 [error] [php] SiteController::generateXML(): Cannot add element contestant number 1 when only 0 such elements exist (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:67)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (67)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (55)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 11:23:35 [error] [php] SiteController::generateXML(): Cannot add element contestant number 2 when only 0 such elements exist (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:68)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (68)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (55)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 11:26:22 [error] [php] Cannot modify header information - headers already sent by (output started at C:\wamp64\www\decathlon\protected\controllers\SiteController.php:55) (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:75)
+Stack trace:
+#0 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(38): SiteController->getFileData()
+#1 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#2 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#4 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#6 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (75)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (58)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 11:45:02 [error] [php] Use of undefined constant index - assumed 'index' (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:70)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (70)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (55)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 11:45:41 [error] [php] strpos() expects parameter 1 to be string, object given (C:\wamp64\www\yii\web\CHttpRequest.php:887)
+Stack trace:
+#0 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(70): SiteController->redirect()
+#1 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(55): SiteController->calculateScore()
+#2 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(38): SiteController->getFileData()
+#3 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#6 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#8 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (70)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (55)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 11:46:30 [error] [php] Missing argument 1 for CController::redirect(), called in C:\wamp64\www\decathlon\protected\controllers\SiteController.php on line 70 and defined (C:\wamp64\www\yii\web\CController.php:1023)
+Stack trace:
+#0 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(38): SiteController->getFileData()
+#1 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#2 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#4 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#6 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (70)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (55)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 11:46:45 [error] [exception.CException] exception 'CException' with message 'Property "SiteController.index" is not defined.' in C:\wamp64\www\yii\base\CComponent.php:130
+Stack trace:
+#0 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(70): CComponent->__get('index')
+#1 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(55): SiteController->calculateScore(Array)
+#2 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(38): SiteController->getFileData('C:\\wamp64\\tmp\\p...')
+#3 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp64\www\yii\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp64\www\yii\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp64\www\yii\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController('')
+#9 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\wamp64\www\decathlon\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/decathlon/
+HTTP_REFERER=http://localhost/decathlon/
+---
+2016/07/20 11:54:22 [error] [php] Undefined index: score (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:86)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (86)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (57)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 11:55:38 [error] [php] Cannot modify header information - headers already sent by (output started at C:\wamp64\www\decathlon\protected\controllers\SiteController.php:55) (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:81)
+Stack trace:
+#0 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(38): SiteController->getFileData()
+#1 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#2 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#4 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#6 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (81)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (59)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 12:38:17 [error] [php] Undefined variable: mytime (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:75)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (75)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (56)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 12:38:25 [error] [php] A non well formed numeric value encountered (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:75)
+Stack trace:
+#0 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(38): SiteController->getFileData()
+#1 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#2 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#4 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#6 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (75)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (56)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 12:38:45 [error] [php] A non well formed numeric value encountered (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:75)
+Stack trace:
+#0 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(38): SiteController->getFileData()
+#1 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#2 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#4 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#6 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (75)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (56)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 12:53:51 [error] [php] Undefined variable: contestant (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:60)
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#2 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#3 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#6 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (60)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 13:01:44 [error] [php] Undefined variable: contestants (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:70)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (70)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (57)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 13:45:18 [error] [php] usort() expects parameter 2 to be a valid callback, function 'sortByST' not found or invalid function name (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:58)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (58)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 13:45:35 [error] [php] usort() expects parameter 2 to be a valid callback, function 'sortByST' not found or invalid function name (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:58)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (58)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+in C:\wamp64\www\decathlon\index.php (13)
+2016/07/20 13:49:33 [error] [php] Undefined offset: 0 (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:142)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (142)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (60)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 13:50:23 [error] [php] Use of undefined constant name - assumed 'name' (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:142)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (142)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (60)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 13:58:12 [error] [php] Undefined index: m1500 (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:154)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (154)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (60)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (38)
+2016/07/20 14:09:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "app/test".' in C:\wamp64\www\yii\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController('app/test')
+#1 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\wamp64\www\decathlon\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/decathlon/index.php?r=app/test
+HTTP_REFERER=http://localhost/decathlon/
+---
+2016/07/20 14:10:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "generateXML".' in C:\wamp64\www\yii\web\CController.php:483
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(270): CController->missingAction('generateXML')
+#1 C:\wamp64\www\yii\web\CWebApplication.php(282): CController->run('generateXML')
+#2 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController('site/generateXM...')
+#3 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\wamp64\www\decathlon\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/decathlon/index.php?r=site/generateXML
+HTTP_REFERER=http://localhost/decathlon/
+---
+2016/07/20 14:10:33 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp64\www\yii\web\CController.php:336
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp64\www\yii\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 C:\wamp64\www\yii\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 C:\wamp64\www\yii\web\CWebApplication.php(282): CController->run('generateXML')
+#4 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController('site/generateXM...')
+#5 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#6 C:\wamp64\www\decathlon\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/decathlon/index.php?r=site/generateXML
+HTTP_REFERER=http://localhost/decathlon/
+---
+2016/07/20 14:10:56 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp64\www\yii\web\CController.php:336
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp64\www\yii\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 C:\wamp64\www\yii\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 C:\wamp64\www\yii\web\CWebApplication.php(282): CController->run('generateXML')
+#4 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController('site/generateXM...')
+#5 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#6 C:\wamp64\www\decathlon\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/decathlon/index.php?r=site/generateXML&contestants%5B0%5D%5Bname%5D=Edan+Daniele&contestants%5B0%5D%5BST%5D=2.12&contestants%5B0%5D%5Bplace%5D=1&contestants%5B0%5D%5B100m%5D=12.61&contestants%5B0%5D%5BLJ%5D=5.00&contestants%5B0%5D%5BSP%5D=9.22&contestants%5B0%5D%5BHJ%5D=1.50&contestants%5B0%5D%5B400m%5D=60.39&contestants%5B0%5D%5B110mH%5D=16.43&contestants%5B0%5D%5BDT%5D=21.60&contestants%5B0%5D%5BPV%5D=2.60&contestants%5B0%5D%5BJT%5D=35.81&contestants%5B0%5D%5B1500m%5D=5.25.72+&contestants%5B1%5D%5Bname%5D=Coos+Kwesi&contestants%5B1%5D%5BST%5D=1.92&contestants%5B1%5D%5Bplace%5D=2&contestants%5B1%5D%5B100m%5D=13.75&contestants%5B1%5D%5BLJ%5D=4.84&contestants%5B1%5D%5BSP%5D=10.12&contestants%5B1%5D%5BHJ%5D=1.50&contestants%5B1%5D%5B400m%5D=68.44&contestants%5B1%5D%5B110mH%5D=19.18&contestants%5B1%5D%5BDT%5D=30.85&contestants%5B1%5D%5BPV%5D=2.80&contestants%5B1%5D%5BJT%5D=33.88&contestants%5B1%5D%5B1500m%5D=6.22.75&contestants%5B2%5D%5Bname%5D=Severi+Eileifr&contestants%5B2%5D%5BST%5D=0.94&contestants%5B2%5D%5Bplace%5D=3&contestants%5B2%5D%5B100m%5D=13.43&contestants%5B2%5D%5BLJ%5D=4.35&contestants%5B2%5D%5BSP%5D=8.64&contestants%5B2%5D%5BHJ%5D=1.50&contestants%5B2%5D%5B400m%5D=66.06&contestants%5B2%5D%5B110mH%5D=19.05&contestants%5B2%5D%5BDT%5D=24.89&contestants%5B2%5D%5BPV%5D=2.20&contestants%5B2%5D%5BJT%5D=33.48&contestants%5B2%5D%5B1500m%5D=6.51.01&contestants%5B3%5D%5Bname%5D=Lehi+Poghos&contestants%5B3%5D%5BST%5D=0.87&contestants%5B3%5D%5Bplace%5D=4&contestants%5B3%5D%5B100m%5D=13.04&contestants%5B3%5D%5BLJ%5D=4.53&contestants%5B3%5D%5BSP%5D=7.79&contestants%5B3%5D%5BHJ%5D=1.55&contestants%5B3%5D%5B400m%5D=64.72&contestants%5B3%5D%5B110mH%5D=18.74&contestants%5B3%5D%5BDT%5D=24.20&contestants%5B3%5D%5BPV%5D=2.40&contestants%5B3%5D%5BJT%5D=28.20&contestants%5B3%5D%5B1500m%5D=6.50.76
+HTTP_REFERER=http://localhost/decathlon/
+---
+2016/07/20 14:11:18 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp64\www\yii\web\CController.php:336
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp64\www\yii\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 C:\wamp64\www\yii\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 C:\wamp64\www\yii\web\CWebApplication.php(282): CController->run('generateXML')
+#4 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController('site/generateXM...')
+#5 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#6 C:\wamp64\www\decathlon\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/decathlon/index.php?r=site/generateXML
+HTTP_REFERER=http://localhost/decathlon/
+---
+2016/07/20 14:11:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "generateXML($contestants)".' in C:\wamp64\www\yii\web\CController.php:483
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(270): CController->missingAction('generateXML($co...')
+#1 C:\wamp64\www\yii\web\CWebApplication.php(282): CController->run('generateXML($co...')
+#2 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController('site/generateXM...')
+#3 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\wamp64\www\decathlon\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/decathlon/index.php?r=site/generateXML($contestants)
+HTTP_REFERER=http://localhost/decathlon/
+---
+2016/07/20 14:12:38 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp64\www\yii\web\CController.php:336
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp64\www\yii\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 C:\wamp64\www\yii\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 C:\wamp64\www\yii\web\CWebApplication.php(282): CController->run('generateXML')
+#4 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController('site/generateXM...')
+#5 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#6 C:\wamp64\www\decathlon\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/decathlon/index.php?r=site/generateXML&contestants%5B0%5D%5Bname%5D=Edan+Daniele&contestants%5B0%5D%5BST%5D=2.12&contestants%5B0%5D%5Bplace%5D=1&contestants%5B0%5D%5B100m%5D=12.61&contestants%5B0%5D%5BLJ%5D=5.00&contestants%5B0%5D%5BSP%5D=9.22&contestants%5B0%5D%5BHJ%5D=1.50&contestants%5B0%5D%5B400m%5D=60.39&contestants%5B0%5D%5B110mH%5D=16.43&contestants%5B0%5D%5BDT%5D=21.60&contestants%5B0%5D%5BPV%5D=2.60&contestants%5B0%5D%5BJT%5D=35.81&contestants%5B0%5D%5B1500m%5D=5.25.72+&contestants%5B1%5D%5Bname%5D=Coos+Kwesi&contestants%5B1%5D%5BST%5D=1.92&contestants%5B1%5D%5Bplace%5D=2&contestants%5B1%5D%5B100m%5D=13.75&contestants%5B1%5D%5BLJ%5D=4.84&contestants%5B1%5D%5BSP%5D=10.12&contestants%5B1%5D%5BHJ%5D=1.50&contestants%5B1%5D%5B400m%5D=68.44&contestants%5B1%5D%5B110mH%5D=19.18&contestants%5B1%5D%5BDT%5D=30.85&contestants%5B1%5D%5BPV%5D=2.80&contestants%5B1%5D%5BJT%5D=33.88&contestants%5B1%5D%5B1500m%5D=6.22.75&contestants%5B2%5D%5Bname%5D=Severi+Eileifr&contestants%5B2%5D%5BST%5D=0.94&contestants%5B2%5D%5Bplace%5D=3&contestants%5B2%5D%5B100m%5D=13.43&contestants%5B2%5D%5BLJ%5D=4.35&contestants%5B2%5D%5BSP%5D=8.64&contestants%5B2%5D%5BHJ%5D=1.50&contestants%5B2%5D%5B400m%5D=66.06&contestants%5B2%5D%5B110mH%5D=19.05&contestants%5B2%5D%5BDT%5D=24.89&contestants%5B2%5D%5BPV%5D=2.20&contestants%5B2%5D%5BJT%5D=33.48&contestants%5B2%5D%5B1500m%5D=6.51.01&contestants%5B3%5D%5Bname%5D=Lehi+Poghos&contestants%5B3%5D%5BST%5D=0.87&contestants%5B3%5D%5Bplace%5D=4&contestants%5B3%5D%5B100m%5D=13.04&contestants%5B3%5D%5BLJ%5D=4.53&contestants%5B3%5D%5BSP%5D=7.79&contestants%5B3%5D%5BHJ%5D=1.55&contestants%5B3%5D%5B400m%5D=64.72&contestants%5B3%5D%5B110mH%5D=18.74&contestants%5B3%5D%5BDT%5D=24.20&contestants%5B3%5D%5BPV%5D=2.40&contestants%5B3%5D%5BJT%5D=28.20&contestants%5B3%5D%5B1500m%5D=6.50.76
+HTTP_REFERER=http://localhost/decathlon/
+---
+2016/07/20 14:12:56 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\wamp64\www\yii\web\CController.php:336
+Stack trace:
+#0 C:\wamp64\www\yii\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\wamp64\www\yii\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 C:\wamp64\www\yii\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 C:\wamp64\www\yii\web\CWebApplication.php(282): CController->run('generateXML')
+#4 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController('site/generateXM...')
+#5 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#6 C:\wamp64\www\decathlon\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/decathlon/index.php?r=site/generateXML&contestants%5B0%5D%5Bname%5D=Edan+Daniele&contestants%5B0%5D%5BST%5D=2.12&contestants%5B0%5D%5Bplace%5D=1&contestants%5B0%5D%5B100m%5D=12.61&contestants%5B0%5D%5BLJ%5D=5.00&contestants%5B0%5D%5BSP%5D=9.22&contestants%5B0%5D%5BHJ%5D=1.50&contestants%5B0%5D%5B400m%5D=60.39&contestants%5B0%5D%5B110mH%5D=16.43&contestants%5B0%5D%5BDT%5D=21.60&contestants%5B0%5D%5BPV%5D=2.60&contestants%5B0%5D%5BJT%5D=35.81&contestants%5B0%5D%5B1500m%5D=5.25.72+&contestants%5B1%5D%5Bname%5D=Coos+Kwesi&contestants%5B1%5D%5BST%5D=1.92&contestants%5B1%5D%5Bplace%5D=2&contestants%5B1%5D%5B100m%5D=13.75&contestants%5B1%5D%5BLJ%5D=4.84&contestants%5B1%5D%5BSP%5D=10.12&contestants%5B1%5D%5BHJ%5D=1.50&contestants%5B1%5D%5B400m%5D=68.44&contestants%5B1%5D%5B110mH%5D=19.18&contestants%5B1%5D%5BDT%5D=30.85&contestants%5B1%5D%5BPV%5D=2.80&contestants%5B1%5D%5BJT%5D=33.88&contestants%5B1%5D%5B1500m%5D=6.22.75&contestants%5B2%5D%5Bname%5D=Severi+Eileifr&contestants%5B2%5D%5BST%5D=0.94&contestants%5B2%5D%5Bplace%5D=3&contestants%5B2%5D%5B100m%5D=13.43&contestants%5B2%5D%5BLJ%5D=4.35&contestants%5B2%5D%5BSP%5D=8.64&contestants%5B2%5D%5BHJ%5D=1.50&contestants%5B2%5D%5B400m%5D=66.06&contestants%5B2%5D%5B110mH%5D=19.05&contestants%5B2%5D%5BDT%5D=24.89&contestants%5B2%5D%5BPV%5D=2.20&contestants%5B2%5D%5BJT%5D=33.48&contestants%5B2%5D%5B1500m%5D=6.51.01&contestants%5B3%5D%5Bname%5D=Lehi+Poghos&contestants%5B3%5D%5BST%5D=0.87&contestants%5B3%5D%5Bplace%5D=4&contestants%5B3%5D%5B100m%5D=13.04&contestants%5B3%5D%5BLJ%5D=4.53&contestants%5B3%5D%5BSP%5D=7.79&contestants%5B3%5D%5BHJ%5D=1.55&contestants%5B3%5D%5B400m%5D=64.72&contestants%5B3%5D%5B110mH%5D=18.74&contestants%5B3%5D%5BDT%5D=24.20&contestants%5B3%5D%5BPV%5D=2.40&contestants%5B3%5D%5BJT%5D=28.20&contestants%5B3%5D%5B1500m%5D=6.50.76
+HTTP_REFERER=http://localhost/decathlon/
+---
+2016/07/20 14:16:19 [error] [exception.CException] exception 'CException' with message 'SiteController and its behaviors do not have a method or closure named "generateXML".' in C:\wamp64\www\yii\base\CComponent.php:266
+Stack trace:
+#0 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(60): CComponent->__call('generateXML', Array)
+#1 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(60): SiteController->generateXML(Array)
+#2 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(38): SiteController->getFileData('C:\\wamp64\\tmp\\p...')
+#3 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp64\www\yii\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp64\www\yii\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp64\www\yii\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController('')
+#9 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\wamp64\www\decathlon\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/decathlon/
+HTTP_REFERER=http://localhost/decathlon/
+---
+2016/07/20 14:43:19 [error] [php] Undefined variable: cs (C:\wamp64\www\decathlon\protected\views\layouts\main.php:8)
+Stack trace:
+#0 C:\wamp64\www\yii\web\widgets\CContentDecorator.php(76): SiteController->renderFile()
+#1 C:\wamp64\www\yii\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#2 C:\wamp64\www\yii\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 C:\wamp64\www\yii\web\CBaseController.php(214): CContentDecorator->run()
+#4 C:\wamp64\www\yii\web\CBaseController.php(308): SiteController->endWidget()
+#5 C:\wamp64\www\decathlon\protected\views\layouts\column1.php(6): SiteController->endContent()
+#6 C:\wamp64\www\yii\web\CBaseController.php(126): require()
+#7 C:\wamp64\www\yii\web\CBaseController.php(95): SiteController->renderInternal()
+#8 C:\wamp64\www\yii\web\CController.php(784): SiteController->renderFile()
+#9 C:\wamp64\www\decathlon\protected\controllers\SiteController.php(20): SiteController->render()
+#10 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#11 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#13 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#14 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#15 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#17 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\views\layouts\main.php (8)
+in C:\wamp64\www\decathlon\protected\views\layouts\column1.php (6)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (20)
+2016/07/20 14:53:59 [error] [php] file(): Filename cannot be empty (C:\wamp64\www\decathlon\protected\controllers\SiteController.php:25)
+Stack trace:
+#0 C:\wamp64\www\yii\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#1 C:\wamp64\www\yii\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\wamp64\www\yii\web\CController.php(286): SiteController->runAction()
+#3 C:\wamp64\www\yii\web\CController.php(265): SiteController->runActionWithFilters()
+#4 C:\wamp64\www\yii\web\CWebApplication.php(282): SiteController->run()
+#5 C:\wamp64\www\yii\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\wamp64\www\yii\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\wamp64\www\decathlon\index.php(13): CWebApplication->run()
+REQUEST_URI=/decathlon/
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (25)
+in C:\wamp64\www\decathlon\protected\controllers\SiteController.php (16)
+in C:\wamp64\www\decathlon\index.php (13)
