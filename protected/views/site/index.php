@@ -27,14 +27,14 @@ Yii::app()->clientScript->registerScript('disableSubmit', "
         'id'=>'upload-form',
          'enableAjaxValidation'=>true,
              'htmlOptions' => array('enctype' => 'multipart/form-data'),
-        )); 
+        ));
 ?>
     <div class='well text-center'>
-    	<p>Please upload CSV file</p>
-        <?php echo $form->fileField($model,'csv'); ?>
+        <p>Please upload CSV file</p>
+        <?php echo $form->fileField($model, 'csv'); ?>
         <?php echo $form->error($model, 'csv'); ?>
         <br/>
-        <?php  echo CHtml::submitButton('Generate XML',array("class"=>"btn btn-success")); ?>
+        <?php  echo CHtml::submitButton('Generate XML', array("class"=>"btn btn-success")); ?>
         <?php echo $form->errorSummary($model); ?>
     </div>
 <?php $this->endWidget(); ?>
